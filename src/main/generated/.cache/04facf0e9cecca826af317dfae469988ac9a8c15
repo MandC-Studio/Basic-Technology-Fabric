@@ -1,0 +1,5 @@
+// 1.20.1	2024-06-10T11:36:25.9124038	Basic Technology/Model Definitions
+4d30d1f01c81a8e5fdabd07a396578fa017db84a assets\basictechnology\models\item\steel_block.json
+db7cee7d0aa28566b79fa909a31ecedfba8642f8 assets\basictechnology\models\block\steel_block.json
+233dcb2270d02d7a0b96ed977bafcde299089d96 assets\basictechnology\blockstates\steel_block.json
+c57011bd5ab73cf7d7a2137c087d19263262355b assets\basictechnology\models\item\iron_stick.json
